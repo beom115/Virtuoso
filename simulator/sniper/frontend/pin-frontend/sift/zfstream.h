@@ -1,1 +1,1 @@
-/mnt/panzer/kanellok/Virtuoso/simulator/sniper/frontend/pin-frontend/../../sift/zfstream.h
+../../../sift/zfstream.h

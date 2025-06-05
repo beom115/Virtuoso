@@ -1,1 +1,1 @@
-/mnt/panzer/kanellok/Virtuoso/simulator/sniper/frontend/pin-frontend/../../sift/sift_reader.cc
+../../../sift/sift_reader.cc

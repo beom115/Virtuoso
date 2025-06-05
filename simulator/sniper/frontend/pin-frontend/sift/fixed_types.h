@@ -1,1 +1,1 @@
-/mnt/panzer/kanellok/Virtuoso/simulator/sniper/frontend/pin-frontend/../../common/misc/fixed_types.h
+../../../common/misc/fixed_types.h

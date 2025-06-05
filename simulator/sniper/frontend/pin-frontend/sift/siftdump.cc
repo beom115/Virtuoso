@@ -1,1 +1,1 @@
-/mnt/panzer/kanellok/Virtuoso/simulator/sniper/frontend/pin-frontend/../../sift/siftdump.cc
+../../../sift/siftdump.cc

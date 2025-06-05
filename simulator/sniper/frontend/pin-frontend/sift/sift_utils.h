@@ -1,1 +1,1 @@
-/mnt/panzer/kanellok/Virtuoso/simulator/sniper/frontend/pin-frontend/../../sift/sift_utils.h
+../../../sift/sift_utils.h
